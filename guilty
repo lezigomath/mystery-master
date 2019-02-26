@@ -1,0 +1,71 @@
+   89  cd Téléchargements
+   90  ls
+   91  cd clmystery-master
+   92  cat instructions
+   93  cd mystery
+   94  cat crimescene
+   95  grep CLUE
+   96  grep clue
+   97  cd Téléchargement
+   98  ls
+   99  cd Téléchargements
+  100  ls
+  101  cd clmystery-master
+  102  ls
+  103  cat instructions
+  104  cat crimescene
+  105  ls
+  106  cd mystery
+  107  cat crimescene
+  108  grep -E "CLUE"
+  109  grep "CLUE" crimescene
+  110  cat people
+  111  grep "Annabelle" people
+  112  grep "Annabel" people
+  113  cd steets
+  114  cd streets
+  115  cat Hart place 
+  116  cat Hart_place
+  117  cat Hart_Place
+  118  cat Buckingham_Place
+  119  head -n 40 Hart_Place
+  120  head -n 179 Buckingham_Place 
+  121  cd..
+  122  cd--
+  123  cd/
+  124  cd.
+  125  cd..
+  126  <man cd
+  127  man cd
+  128  cd ..
+  129  cd interviews
+  130  cat interviews#47246024
+  131  cat interviews-47246024
+  132  cat interview-4726024
+  133  cat interview-47246024
+  134  cat interview-699607
+  135  cd ..
+  136  cd vehicles
+  137  cat vehicles
+  138  grep L337 Head n-5
+  139  grep L337 vehicles Head n-5
+  140  grep -A 5 vehicles
+  141  grep -A 5 L337 vehicles
+  142  cd menberships
+  143  memberships
+  144  cd memberships
+  145  cat AAA_DeltaSkymiles-terminalcitylibrary_Museum_Of_Bach_History | grep "Jacqui Maher"
+  146  cat AAA Delta_Skymiles Terminal_City_Library Museum_Of_Bach_History | grep "Jacqui Maher"
+  147  cat AAA_DeltaSkyMiles-terminalcitylibrary_Museum_of_Bach_History | grep "Jacqui Maher"
+  148  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bach_History | grep "Jacqui Maher"
+  149  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jacqui Maher"
+  150  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jeremy Bowers"
+  151  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Joe Germuska"
+  152  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History |grep "Joe Germuska"
+  153  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History |grep "Jeremy Bowers"
+  154  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History |grep "Miranda Mulligan"
+  155  cd ..
+  156  grep "Jacqui Maher" people
+  157  grep "Jeremy Bowers" people
+  158  echo Jeremy Bowers
+  159  history > mon_historique.log
