@@ -1,0 +1,156 @@
+ 1  apt-get gcc
+    2  apt-get install gcc
+    3  sudo apt-get install gcc
+    4  whoami
+    5  pwd
+    6  cd ../
+    7  cd yann/
+    8  cd /home
+    9  ls
+   10  ls -l
+   11  cd /
+   12  ls
+   13  ls l-
+   14  ls -l
+   15  cd home/yann/
+   16  pwd
+   17  ls
+   18  ls Musique/
+   19  clear
+   20  ls
+   21  cd Musique/
+   22  ls
+   23  cd ..
+   24  pwd
+   25  mkdir test
+   26  ls
+   27  ls -l test 
+   28  touch test/toto
+   29  ls
+   30  ls test
+   31  cd test
+   32  explorer
+   33  Nautilus 
+   34  nautilus
+   35  clear
+   36  ls
+   37  rename --help
+   38  mv --help
+   39  mv toto toto.txt
+   40  ls
+   41  mv toto.txt ../
+   42  ls
+   43  ls /yann
+   44  ls ../
+   45  cp --help
+   46  clear
+   47  ls
+   48  ls //
+   49  ls ..
+   50  cp ../toto.txt ./
+   51  ls
+   52  ls ..
+   53  rm ../toto.txt 
+   54  ls ..
+   55  ls /home /yann
+   56  ls /home/yann/
+   57  clear
+   58  ../
+   59  pwd
+   60  cd..
+   61  cd ..
+   62  pwd
+   63  mkdir dev
+   64  ls
+   65  cd dev
+   66  mkdir gol
+   67  cd gol
+   68  touch gol.html
+   69  whoami
+   70  /=br 
+   71  whoami
+   72  /home/yann/.thunderbird
+   73  /dev
+   74  whereami
+   75  whereiam
+   76  /dev ls
+   77  /dev$ ls
+   78  /dev ls
+   79  /dev$ ls
+   80  /test ls -l
+   81  test ls
+   82  $/test ls 
+   83  test ls
+   84  cat instruction
+   85  whereami
+   86  cd Téléchargement
+   87  clear
+   88  ls
+   89  cd Téléchargements
+   90  ls
+   91  cd clmystery-master
+   92  cat instructions
+   93  cd mystery
+   94  cat crimescene
+   95  grep CLUE
+   96  grep clue
+   97  cd Téléchargement
+   98  ls
+   99  cd Téléchargements
+  100  ls
+  101  cd clmystery-master
+  102  ls
+  103  cat instructions
+  104  cat crimescene
+  105  ls
+  106  cd mystery
+  107  cat crimescene
+  108  grep -E "CLUE"
+  109  grep "CLUE" crimescene
+  110  cat people
+  111  grep "Annabelle" people
+  112  grep "Annabel" people
+  113  cd steets
+  114  cd streets
+  115  cat Hart place 
+  116  cat Hart_place
+  117  cat Hart_Place
+  118  cat Buckingham_Place
+  119  head -n 40 Hart_Place
+  120  head -n 179 Buckingham_Place 
+  121  cd..
+  122  cd--
+  123  cd/
+  124  cd.
+  125  cd..
+  126  <man cd
+  127  man cd
+  128  cd ..
+  129  cd interviews
+  130  cat interviews#47246024
+  131  cat interviews-47246024
+  132  cat interview-4726024
+  133  cat interview-47246024
+  134  cat interview-699607
+  135  cd ..
+  136  cd vehicles
+  137  cat vehicles
+  138  grep L337 Head n-5
+  139  grep L337 vehicles Head n-5
+  140  grep -A 5 vehicles
+  141  grep -A 5 L337 vehicles
+  142  cd menberships
+  143  memberships
+  144  cd memberships
+  145  cat AAA_DeltaSkymiles-terminalcitylibrary_Museum_Of_Bach_History | grep "Jacqui Maher"
+  146  cat AAA Delta_Skymiles Terminal_City_Library Museum_Of_Bach_History | grep "Jacqui Maher"
+  147  cat AAA_DeltaSkyMiles-terminalcitylibrary_Museum_of_Bach_History | grep "Jacqui Maher"
+  148  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bach_History | grep "Jacqui Maher"
+  149  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jacqui Maher"
+  150  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jeremy Bowers"
+  151  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Joe Germuska"
+  152  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History |grep "Joe Germuska"
+  153  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History |grep "Jeremy Bowers"
+  154  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History |grep "Miranda Mulligan"
+  155  cd ..
+  156  grep "Jacqui Maher" people
